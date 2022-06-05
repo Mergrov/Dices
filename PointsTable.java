@@ -8,6 +8,7 @@ public class PointsTable {
 
     JButton QuitButton = new JButton("Quit");
 
+// szkoła
     JButton Pjedynki = new JButton();
     JButton AIjedynki = new JButton();
     JButton Pdwojki = new JButton();
@@ -21,6 +22,7 @@ public class PointsTable {
     JButton Pszostki = new JButton();
     JButton AIszostki = new JButton();
 
+    //gra właściwa
     JButton Ppara = new JButton();
     JButton AIpara = new JButton();
     JButton Ptrojka = new JButton();
