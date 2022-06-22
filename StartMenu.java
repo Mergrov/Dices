@@ -16,7 +16,7 @@ public class StartMenu implements ActionListener {
         panel.add(button);
         panel.add(label);
 
-        button.addActionListener(this);
+        button.addActionListener(this::actionPerformed);
         button.setBounds(175, 175, 250, 250);
 
         frame.add(panel, BorderLayout.CENTER);
