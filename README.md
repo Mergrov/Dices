@@ -1,2 +1,2 @@
 # Dices
-I'll probably never finish this Java project, as Kotlin is just better.
+Old project used for java learning. Not fully functional. 
